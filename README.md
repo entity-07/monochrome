@@ -1,6 +1,7 @@
 # Monochrome
 
-![[lockscreen.png]]
+![lockscreen](https://github.com/user-attachments/assets/4f55a1b9-eb67-4d21-a158-128cc53b8a28)
+
 
 ![[showcase.png]]
 
