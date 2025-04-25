@@ -5,8 +5,7 @@
 
 ![showcase](https://github.com/user-attachments/assets/f39356aa-425d-4806-8f9e-5cf0de3e16ec)
 
-
-![[terminal.png]]
+![terminal](https://github.com/user-attachments/assets/33ce3a66-c94d-4328-8b7a-1ce17c7d0783)
 
 ## custom configs will be uploaded here, you'll have to look for the non-custom stuff yourself
 
