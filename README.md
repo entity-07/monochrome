@@ -3,7 +3,8 @@
 ![lockscreen](https://github.com/user-attachments/assets/4f55a1b9-eb67-4d21-a158-128cc53b8a28)
 
 
-![[showcase.png]]
+![showcase](https://github.com/user-attachments/assets/f39356aa-425d-4806-8f9e-5cf0de3e16ec)
+
 
 ![[terminal.png]]
 
