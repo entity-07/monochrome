@@ -2,7 +2,6 @@
 
 ![lockscreen](https://github.com/user-attachments/assets/4f55a1b9-eb67-4d21-a158-128cc53b8a28)
 
-
 ![showcase](https://github.com/user-attachments/assets/f39356aa-425d-4806-8f9e-5cf0de3e16ec)
 
 ![terminal](https://github.com/user-attachments/assets/33ce3a66-c94d-4328-8b7a-1ce17c7d0783)
@@ -19,6 +18,7 @@
 - monkeytype - dark theme located in the website's settings
 - taskbar - customized with startallback and niivu's "macindows" theme
 - custom windows theme - niivu's "macindows" theme
+- custom shell prompt - starship. Config found in starship\starship.toml
 
 ### custom terminal apps
 
